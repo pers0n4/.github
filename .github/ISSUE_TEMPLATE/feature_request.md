@@ -17,10 +17,16 @@ Feature:
   I 
   So 
 
+  # 모든 시나리오에서 반복되는 조건
+  Background:
+    Given 
+    * 
+    * 
+
   Scenario: 
     Given 
-      And
+    And 
     When 
     Then 
-      But
+    But 
 ```
