@@ -1,22 +1,20 @@
 ---
-name: 버그 제보
-about: Create a report to help us improve
+name: Bug Report
+about: Report a bug in the project
 title: ""
 labels: "Type: Bug"
 assignees: ""
 ---
 ## Bug Report
 
-### 기대 결과
+### Description
 
-### 현재 결과
-
-### 재현 방법
+### Reproduction
 
 1. ...
 2. ...
 
-### 실행 환경
+### Environment
 
 - OS:
 - Version:

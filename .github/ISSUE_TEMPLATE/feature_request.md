@@ -1,13 +1,13 @@
 ---
-name: 기능 제안
-about: Suggest an idea for this project
+name: Feature Request
+about: Suggest a feature for project
 title: ""
 labels: "Type: Feature"
 assignees: ""
 ---
 ## Feature Request
 
-### 제안 내용
+### Description
 
 ### User Story
 
@@ -17,7 +17,6 @@ Feature:
   I 
   So 
 
-  # 모든 시나리오에서 반복되는 조건
   Background:
     Given 
     * 
