@@ -8,24 +8,3 @@ assignees: ""
 ## Feature Request
 
 ### Description
-
-### User Story
-
-```gherkin
-Feature: 
-  As 
-  I 
-  So 
-
-  Background:
-    Given 
-    * 
-    * 
-
-  Scenario: 
-    Given 
-    And 
-    When 
-    Then 
-    But 
-```
