@@ -7,14 +7,15 @@ assignees: pers0n4
 ---
 
 <!--
-Note: Please search to see if an issue already exists for the bug you encountered.
+NOTE: Please search to see if an issue already exists for the bug you encountered.
 -->
 
 ## Bug Report
 
 ### Description
 
-<!-- A clear and concise description of what the bug is. -->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
 ### Current Behavior
 
@@ -26,12 +27,24 @@ Note: Please search to see if an issue already exists for the bug you encountere
 
 ### Steps To Reproduce
 
-<!-- Steps to reproduce the behavior. -->
+<!-- Example: steps to reproduce the behavior.
+1. 
+2. 
+3. 
+-->
+
+### Screenshots
+
+<!-- If applicable, add screenshots to help explain your problem. -->
 
 ### Environment
 
 <!-- Example:
-- OS:
-- Browser:
-- Version:
+- Version: 
+- Browser: 
+- OS: 
 -->
+
+### Context
+
+<!-- Links? References? Anything that will give us more context about the issue that you are encountering! -->
