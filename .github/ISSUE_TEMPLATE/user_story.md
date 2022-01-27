@@ -10,10 +10,7 @@ assignees: ""
 
 <!-- https://cucumber.io/docs/gherkin/reference/ -->
 ```gherkin
-Feature: <feature-name>
-  As 
-  I 
-  So 
+Feature: As a [persona], I want to [feature], so that [reason]
 
   Background:
     Given 
