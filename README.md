@@ -1,6 +1,6 @@
 # GitHub Templates
 
-GitHub에서 사용할 수 있는 각종 template 모음입니다.
+GitHub에서 사용할 수 있는 template입니다.
 
 ## 🎓 Instruction
 
@@ -15,4 +15,6 @@ GitHub에서 사용할 수 있는 각종 template 모음입니다.
 
 ## 📝 License
 
+- [Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 - [choosealicense.com](https://choosealicense.com/)
+- [Open Source Licenses](https://opensource.org/licenses)
