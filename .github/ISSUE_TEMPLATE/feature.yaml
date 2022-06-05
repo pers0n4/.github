@@ -1,0 +1,21 @@
+name: Feature
+description: Propose a new feature
+title: "feat: TITLE"
+labels: ["Type: Feature"]
+assignees:
+  - pers0n4
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Desription
+      description: Provide a brief summary of the feature you would like to see.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: Describe the use case(s) that the proposed feature would enable.
+    validations:
+      required: false

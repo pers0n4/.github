@@ -1,0 +1,57 @@
+name: Bug Report
+description: Report a bug
+title: "bug: TITLE"
+labels: ["Type: Bug"]
+assignees:
+  - pers0n4
+body:
+  - type: checkboxes
+    id: is-regresion
+    attributes:
+      label: Is this a regression?
+      description: Did this behavior use to work in the previous?
+      options:
+        - label: Yes, this behavior used to work in the previous
+          required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      value: |
+        Steps to reproduce:
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: What behavior were you expecting to see?
+    validations:
+      required: true
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual Behavior
+      description: What behavior did you actually see?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      value: |
+        - Version:
+        - Browser(s):
+        - Operating System:
+    validations:
+      required: true

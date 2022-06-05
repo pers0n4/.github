@@ -1,0 +1,33 @@
+name: User Story
+description: Describe a user story
+title: "story: TITLE"
+labels:
+  - "Roadmap: Story/Task"
+body:
+  - type: textarea
+    id: user-story
+    attributes:
+      label: User Story
+      description: |
+        - [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
+      value: |
+        Feature: <feature-name>
+
+          As a <persona>
+          I want to <feature>
+          so that <reason>
+
+          Background:
+            Given
+            *
+            *
+
+          Scenario: <scenario-name>
+            Given
+            And
+            When
+            Then
+            But
+      render: Gherkin
+    validations:
+      required: true
