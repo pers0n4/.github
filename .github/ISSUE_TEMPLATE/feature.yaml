@@ -1,6 +1,6 @@
 name: Feature
 description: Propose a new feature
-title: "feat: TITLE"
+title: "Feature: "
 labels: ["Type: Feature"]
 assignees:
   - pers0n4
